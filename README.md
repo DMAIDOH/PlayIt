@@ -1,7 +1,7 @@
 # PlayIt
-An android app that serves as an integrated music playlist for users
-
 #Deborah, Jearice and Ashley's repository for our Android final project
+
+Description - An android app that serves as an integrated music playlist for users
 
 #Useful Git commands for terminal (Unix)
 
