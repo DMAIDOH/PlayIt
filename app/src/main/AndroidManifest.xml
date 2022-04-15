@@ -10,6 +10,66 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PlayIt">
         <activity
+            android:name=".Fireboy_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Burnaboy_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Tems_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Wizkid_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Giveon_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Black_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Rihanna_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Beyonce_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Travis_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Drake_songs"
+            android:exported="false" />
+        <activity
+            android:name=".Nicki_songs"
+            android:exported="false" />
+        <activity
+            android:name=".kendrick_songs"
+            android:exported="false" />
+        <activity
+            android:name=".justin_songs"
+            android:exported="false" />
+        <activity
+            android:name=".dua_songs"
+            android:exported="false" />
+        <activity
+            android:name=".doja_songs"
+            android:exported="false" />
+        <activity
+            android:name=".ariana_songs"
+            android:exported="false" />
+        <activity
+            android:name=".afro_genre"
+            android:exported="false" />
+        <activity
+            android:name=".rnb_genre"
+            android:exported="false" />
+        <activity
+            android:name=".hiphop_genre"
+            android:exported="false" />
+        <activity
+            android:name=".pop_genre"
+            android:exported="false" />
+        <activity
             android:name=".my_playlist"
             android:exported="false" />
         <activity

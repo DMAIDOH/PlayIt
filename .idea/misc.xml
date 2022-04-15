@@ -3,9 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_afro_genre.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_ariana_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_beyonce_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_black_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_burnaboy_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_doja_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_drake_songs.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/activity_dua_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_fireboy_songs.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_genre_page.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_giveon_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_hiphop_genre.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_justin_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_kendrick_songs.xml" value="0.16893115942028986" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_my_playlist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_nicki_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_pop_genre.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_rihanna_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_rnb_genre.xml" value="0.1322463768115942" />
+        <entry key="app/src/main/res/layout/activity_tems_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_travis_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_wizkid_songs.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher3.xml" value="0.14375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher3_round.xml" value="0.14375" />
       </map>
     </option>
   </component>
